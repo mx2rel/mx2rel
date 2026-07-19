@@ -15,7 +15,7 @@ Currently, I am an incoming Artificial Intelligence student at PWr (Wrocław Tec
 
 ### 🚍 Railway Tech & Transit Logistics
 I have a deep, practical passion for **transit logistics systems**, specifically railways. I combine my perspective as an active passenger with my programming skills to build tools that modernize public transport.
-- 🚉 **Creator of [GdziePociąg.pl](https://gdziepociag.pl):** A web app for the real-time visualization and prediction of train positions.
+- 🚉 **Creator of [GdziePociąg.pl](https://gdziepociąg.pl):** A web app for the real-time visualization and prediction of train positions.
 - 📊 Working extensively with **GTFS** (General Transit Feed Specification) and integrating dynamic APIs (e.g., PLK S.A.) for public transport mapping.
 - ⚡ Deeply interested in the digitalization of railways, schedule optimization, and applying AI to public transit.
 
