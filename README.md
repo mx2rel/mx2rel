@@ -1,24 +1,26 @@
 ### Hi there 👋 I am Marcel
 
-I’m a developer who loves building **web apps**, **games**, and exploring **data-driven systems**.  
-Recently, I’ve been focusing on full-stack development with React/Next.js and diving deep into transit data.
+I’m a Junior Developer with over 2 years of commercial experience building **web apps**, **games**, and exploring **data-driven systems**.  
+Currently, I am an incoming Artificial Intelligence student at PWr (Wrocław Tech). I’ve been focusing heavily on full-stack development with React/Next.js and diving deep into railway tech and transit data.
 
 ---
 
-### 🧠 Main Skills & Experience
-- 🌐 **JavaScript**, **Node.js**, **React**, **Next.js**, **Prisma**
-- 🖥 **C#**, **.NET**, **WinUI 3**
-- 🕹 **Unity** (2D/3D, gameplay systems, UI, tools)
+### 🧠 Main Skills & Technologies
+- 🌐 **Web:** JavaScript, Node.js, React, Next.js, Express, Tailwind CSS
+- 💾 **Backend & Data:** REST APIs, SQL, Database Design, Prisma ORM, Python
+- 🖥 **Software:** C#, .NET, WinUI 3
+- 🕹 **Game Dev & UI/UX:** Unity (Mechanics, UI/UX), Blender, Adobe Photoshop, Adobe XD
 
 ---
 
-### 🚍 Transit & Logistics Interests
-I have a keen interest in **transit logistics systems** and the infrastructure that moves the world. 
-- 📊 Working with **GTFS** (General Transit Feed Specification) files for public transport mapping.
-- 🗺️ Building tools for route optimization and schedule visualization.
-- ⚡ Interested in real-time transit data and API integrations.
+### 🚍 Railway Tech & Transit Logistics
+I have a deep, practical passion for **transit logistics systems**, specifically railways. I combine my perspective as an active passenger with my programming skills to build tools that modernize public transport.
+- 🚉 **Creator of [GdziePociąg.pl](https://gdziepociag.pl):** A web app for the real-time visualization and prediction of train positions.
+- 📊 Working extensively with **GTFS** (General Transit Feed Specification) and integrating dynamic APIs (e.g., PLK S.A.) for public transport mapping.
+- ⚡ Deeply interested in the digitalization of railways, schedule optimization, and applying AI to public transit.
 
 ---
 
 ### 💬 Contact
-- <a href="mailto:marciweleqyt@gmail.com">📧 Mail me!</a>
+- <a href="mailto:marceldwelna@gmail.com">📧 Mail me!</a>
+- <a href="https://linkedin.com/in/marcelwelna/">💼 Connect on LinkedIn</a>
