@@ -6,7 +6,7 @@ Currently, I am an incoming Artificial Intelligence student at PWr (Wrocław Tec
 ---
 
 ### 🧠 Main Skills & Technologies
-- 🌐 **Web:** JavaScript, Node.js, React, Next.js, Express, Tailwind CSS
+- 🌐 **Web:** TypeScript, JavaScript, Node.js, React, Next.js, Express, Tailwind CSS
 - 💾 **Backend & Data:** REST APIs, SQL, Database Design, Prisma ORM, Python
 - 🖥 **Software:** C#, .NET, WinUI 3
 - 🕹 **Game Dev & UI/UX:** Unity (Mechanics, UI/UX), Blender, Adobe Photoshop, Adobe XD
